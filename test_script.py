@@ -37,3 +37,5 @@ test_list_all_tasks()
 test_get_task()
 test_update_task()
 test_delete_task()
+
+print("All tests passed successfully!")
